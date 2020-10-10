@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
+project = 'Data Science Using Python'
 copyright = '2020, Harideep'
 author = 'Harideep'
 

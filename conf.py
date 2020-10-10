@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Data Science Using Python'
-copyright = '2020, Harideep'
-author = 'Harideep'
+copyright = '2020, LIKHITHRISHI'
+author = 'LIKHITH RISHi'
 
 # The full version, including alpha/beta/rc tags
 release = ''
